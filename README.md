@@ -5,3 +5,7 @@
 - ~~[old twitter](https://twitter.com/pythonista)~~
 - ~~[even older livejournal](https://seanb.livejournal.com/)~~
 - Signal: seanb.23
+
+# See also
+
+[Wish List](wishlist.md)
